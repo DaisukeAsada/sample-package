@@ -1,0 +1,23 @@
+{
+  "name": "@daisukeasada/sample-package",
+  "version": "1.0.0",
+  "description": "sample",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "https://github.com/DaisukeAsada/sample-package#readme",
+  "bugs": {
+    "url": "https://github.com/DaisukeAsada/sample-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaisukeAsada/sample-package.git"
+  },
+  "license": "ISC",
+  "author": "DaisukeAsada",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  }
+}
